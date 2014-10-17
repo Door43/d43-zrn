@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zrn:home|Door43 (zrn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zrn|d43-zrn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zrn/archive/master.zip|d43-zrn.zip]]
+
+**Recent Changes**
+{{changes>ns = zrn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zrn|Ethnologue data]]
+
